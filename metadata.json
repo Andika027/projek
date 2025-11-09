@@ -1,0 +1,5 @@
+{
+  "name": "Event Registration and Payment",
+  "description": "A two-page application for event registration with Google Sheets integration and a subsequent payment instruction page. The design is based on a professional event flyer.",
+  "requestFramePermissions": []
+}
